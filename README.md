@@ -18,6 +18,9 @@ while playing the game on the PCSX2 emulator.
 #### 5. Click Apply patch. If it throws an error, try disabling Checksum validation.
 #### 6. The patch is now installed, enjoy a functional experience of Tourist Trophy on PCSX2!
 
+## Credit
+Made possible by the [GT4 Replay Tool](https://github.com/Silentwarior112/GT4-Replay-Decoder) which is powered by [PDTools](https://github.com/Nenkai/PDTools) and [Enceladus](https://github.com/DanielSant0s/Enceladus).
+See the charts for additional Replay contributions below.
 
 
 
