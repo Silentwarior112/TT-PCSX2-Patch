@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="640" height="360" src="https://github.com/Silentwarior112/TT-PCSX2=Patch/blob/logo.png">
+  <img width="640" height="360" src="https://github.com/Silentwarior112/TT-PCSX2-Patch/blob/logo.png">
 </p>
 
 Fixes Tourist Trophy's notorious broken license tests, ability to save replays of affected license tests, and the Replay Theater's built-in demos
