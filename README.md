@@ -27,12 +27,12 @@ See the charts for additional Replay contributions below.
 # What's the fix?
 
 The replays and demonstrations are particularly sensitive to differences in floating point calculations, which throw off the replay's playback in-game.
-When playing on PCSX2, they suffer from various issues including:
-Game freezes upon loading (file size of it gets wildly mis-calculated)
-Replays are considered corrupted and will not be allowed to load
-Saving a replay results in a wild mis-calculation of the file size and unable to save
-Demonstrations fail to load / repeatedly restart
-Demonstrations desynchronize (inaccurate playback)
+- When playing on PCSX2, they suffer from various issues including:<br>
+- Game freezes upon loading (file size of it gets wildly mis-calculated)<br>
+- Replays are considered corrupted and will not be allowed to load<br>
+- Saving a replay results in a wild mis-calculation of the file size and unable to save<br>
+- Demonstrations fail to load / repeatedly restart<br>
+- Demonstrations desynchronize (inaccurate playback)<br>
 
 By recording new replays on PCSX2, and modifying the game to replace the on-disc replays and demonstrations,
 we can eliminate the issue for PCSX2 players.
