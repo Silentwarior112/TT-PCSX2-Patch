@@ -8,8 +8,18 @@ while playing the game on the PCSX2 emulator.
 #### It's recommended to use a folder memory card on PCSX2 to make it easier to get your replay.
 #### Required: ALL PCSX2 Advanced settings (Rounding, clamping, etc.) MUST BE LEFT ON DEFAULT SETTINGS!
 
+## How to install:
+#### 1. Download Delta [Patcher 3.1.6](https://github.com/marco-calautti/DeltaPatcher/releases)
+#### 2. Download the corresponding patch for your version of the game (USA, PAL, etc.) from [Releases](https://github.com/Silentwarior112/TT-PCSX2-Patch/releases)
+#### 3. Backup your copy of Tourist Trophy, or let Delta Patcher do it by enabling 'Backup original file' in the settings.
+#### 4. Using Delta Patcher, set your copy of TT as the 'Original file', then set your downloaded TT patch as the 'XDelta patch'
+#### 5. Click Apply patch. If it throws an error, try disabling Checksum validation.
+#### 6. The patch is now installed, enjoy a functional experience of Tourist Trophy on PCSX2!
 
-## What's the fix?
+
+
+
+# What's the fix?
 
 The replays and demonstrations are particularly sensitive to differences in floating point calculations, which throw off the replay's playback in-game.
 When playing on PCSX2, they suffer from various issues including:
