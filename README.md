@@ -38,7 +38,7 @@ The patch consists of new, PCSX2-based recordings.
 
 See the charts below for the current state of the patch:
 
-Licenses:
+# Licenses:
 |   USA SCUS-97502      | Playable | Demo Functional | Demo by:     |
 |-----------------------|-----------|-----------------|-------------|
 | N-1                   | ✅ | ✅           | Original OK |
