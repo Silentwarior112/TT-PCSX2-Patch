@@ -12,7 +12,7 @@ while playing the game on the PCSX2 emulator.
 
 ## How to install:
 #### 1. Download Delta [Patcher 3.1.6](https://github.com/marco-calautti/DeltaPatcher/releases)
-#### 2. Download the corresponding patch for your version of the game (USA, PAL, etc.) from [Releases](https://github.com/Silentwarior112/TT-PCSX2-Patch/releases)
+#### 2. Download the corresponding patch for your version of the game (USA, PAL, or Japan) from [Releases](https://github.com/Silentwarior112/TT-PCSX2-Patch/releases)
 #### 3. Backup your copy of Tourist Trophy, or let Delta Patcher do it by enabling 'Backup original file' in the settings.
 #### 4. Using Delta Patcher, set your copy of TT as the 'Original file', then set your downloaded TT patch as the 'XDelta patch'
 #### 5. Click Apply patch. If it throws an error, try disabling Checksum validation.
