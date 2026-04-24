@@ -128,6 +128,45 @@ See the charts below for the current state of the patch:
 | S-9                   | ✅ | Desync issue | Needs new replay ❌️ |
 | S-10                  | ✅ | Desync issue | Needs new replay ❌️ |
 
-|   Japan SCPS-15105   | Playable | Demo Functional | Demo by:     |
+|   Japan SCPS-15105      | Playable | Demo Functional | Demo by:     |
 |-----------------------|-----------|-----------------|-------------|
-| Not available yet                   |  |            |  |
+| N-1                   | ✅ | ✅           | Original OK |
+| N-2                   | ✅ | ✅           | 0'19.533 by Silentwarior112 |
+| N-3                   | ✅ | ✅           | Original OK |
+| N-4                   | ✅ | ✅           | 0'36.156 by Silentwarior112 |
+| N-5                   | ✅ | ✅           | 0'18.448 by Silentwarior112 |
+| N-6                   | ✅ | ✅           | 0'14.729 by Silentwarior112 |
+| N-7                   | ✅ | ✅           | 0'32.162 by Silentwarior112 |
+| N-8                   | ✅ | ✅           | 0'24.204 by Silentwarior112 |
+| N-9                   | ✅ | ✅           | 0'34.933 by Silentwarior112 |
+| N-10                  | ✅ | ✅           | 0'45.992 by Silentwarior112 |
+| J-1                   | ✅ | ✅           | 0'13.672 by Silentwarior112 |
+| J-2                   | ✅ | ✅           | 0'22.985 by Silentwarior112 |
+| J-3                   | ✅ | ✅           | 0'18.716 by Silentwarior112 |
+| J-4                   | ✅ | ✅           | 0'16.465 by Silentwarior112 |
+| J-5                   | ✅ | ✅           | 0'17.144 by Silentwarior112 |
+| J-6                   | ✅ | ✅           | 0'21.389 by Silentwarior112 |
+| J-7                   | ✅ | ✅           | 0'11.010 by Silentwarior112 |
+| J-8                   | ✅ | ✅           | 0'27.454 by Silentwarior112 |
+| J-9                   | ✅ | ✅           | 0'20.849 by Silentwarior112 |
+| J-10                  | ✅ | ✅           | 1'22.851 by Silentwarior112 |
+| E-1                   | ✅ | ✅           | 0'22.984 by Silentwarior112 |
+| E-2                   | ✅ | ✅           | 0'16.866 by Silentwarior112 |
+| E-3                   | ✅ | ✅           | 0'25.466 by Silentwarior112 |
+| E-4                   | ✅ | ✅           | 0'24.971 by Silentwarior112 |
+| E-5                   | ✅ | ✅           | 0'22.041 by Silentwarior112 |
+| E-6                   | ✅ | ✅           | 0'21.901 by Silentwarior112 |
+| E-7                   | ✅ | ✅           | 0'47.325 by Silentwarior112 |
+| E-8                   | ✅ | ✅           | 0'34.042 by Silentwarior112 |
+| E-9                   | ✅ | ✅           | 0'26.444 by Silentwarior112 |
+| E-10                  | ✅ | ✅           | 1'28.267 by Silentwarior112 |
+| S-1                   | ✅ | Desync issue | Needs new replay ❌️ |
+| S-2                   | ✅ | Desync issue | Needs new replay ❌️ |
+| S-3                   | ✅ | ✅           | 2'12.504 by Silentwarior112 |
+| S-4                   | ✅ | Desync issue | Needs new replay ❌️ |
+| S-5                   | ✅ | Desync issue | Needs new replay ❌️ |
+| S-6                   | ✅ | Desync issue | Needs new replay ❌️ |
+| S-7                   | ✅ | Desync issue | Needs new replay ❌️ |
+| S-8                   | ✅ | Desync issue | Needs new replay ❌️ |
+| S-9                   | ✅ | Desync issue | Needs new replay ❌️ |
+| S-10                  | ✅ | Desync issue | Needs new replay ❌️ |
