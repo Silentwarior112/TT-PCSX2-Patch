@@ -88,15 +88,15 @@ See the charts below for the current state of the patch:
 |   Europe SCES-53372   | Playable | Demo Functional | Demo by:     |
 |-----------------------|-----------|-----------------|-------------|
 | N-1                   | ✅ | ✅           | Original OK |
-| N-2                   | ✅ | Desync issue | Needs new replay ❌️ |
+| N-2                   | ✅ | ✅ | 0'18.139 by BeatUnitix |
 | N-3                   | ✅ | ✅           | Original OK |
 | N-4                   | ✅ | ✅           | Original OK |
 | N-5                   | ✅ | ✅           | Original OK |
 | N-6                   | ✅ | ✅           | Original OK |
-| N-7                   | ✅ | Desync issue | Needs new replay ❌️ |
+| N-7                   | ✅ | ✅ | 0'32.007 by BeatUnitix |
 | N-8                   | ✅ | ✅           | Original OK |
-| N-9                   | ✅ | Desync issue | Needs new replay ❌️ |
-| N-10                  | ✅ | Desync issue | Needs new replay ❌️ |
+| N-9                   | ✅ | ✅ | 0'33.651 by BeatUnitix |
+| N-10                  | ✅ | ✅ | 0'44.450 by BeatUnitix |
 | J-1                   | ✅ | ✅           | Original OK |
 | J-2                   | ✅ | ✅           | Original OK |
 | J-3                   | ✅ | ✅           | Original OK |
@@ -104,29 +104,29 @@ See the charts below for the current state of the patch:
 | J-5                   | ✅ | ✅           | Original OK |
 | J-6                   | ✅ | ✅           | Original OK |
 | J-7                   | ✅ | ✅           | Original OK |
-| J-8                   | ✅ | Desync issue | Needs new replay ❌️ |
+| J-8                   | ✅ | ✅ | 0'26.827 by BeatUnitix |
 | J-9                   | ✅ | ✅           | Original OK |
-| J-10                  | ✅ | Desync issue | Needs new replay ❌️ |
-| E-1                   | ✅ | Desync issue | Needs new replay ❌️ |
+| J-10                  | ✅ | ✅ | 1'21.474 by BeatUnitix |
+| E-1                   | ✅ | ✅ | 0'22.387 by BeatUnitix |
 | E-2                   | ✅ | ✅           | Original OK |
 | E-3                   | ✅ | ✅           | Original OK |
-| E-4                   | ✅ | Desync issue | Needs new replay ❌️ |
-| E-5                   | ✅ | Desync issue | Needs new replay ❌️ |
+| E-4                   | ✅ | ✅ | 0'23.839 by BeatUnitix |
+| E-5                   | ✅ | ✅ | 0'21.690 by BeatUnitix |
 | E-6                   | ✅ | ✅           | Original OK |
-| E-7                   | ✅ | Desync issue | Needs new replay ❌️ |
-| E-8                   | ✅ | Desync issue | Needs new replay ❌️ |
-| E-9                   | ✅ | Desync issue | Needs new replay ❌️ |
-| E-10                  | ✅ | Desync issue | Needs new replay ❌️ |
-| S-1                   | ✅ | Desync issue | Needs new replay ❌️ |
-| S-2                   | ✅ | Desync issue | Needs new replay ❌️ |
-| S-3                   | ✅ | Desync issue | Needs new replay ❌️ |
-| S-4                   | ✅ | Desync issue | Needs new replay ❌️ |
-| S-5                   | ✅ | Desync issue | Needs new replay ❌️ |
-| S-6                   | ✅ | Desync issue | Needs new replay ❌️ |
-| S-7                   | ✅ | Desync issue | Needs new replay ❌️ |
-| S-8                   | ✅ | Desync issue | Needs new replay ❌️ |
-| S-9                   | ✅ | Desync issue | Needs new replay ❌️ |
-| S-10                  | ✅ | Desync issue | Needs new replay ❌️ |
+| E-7                   | ✅ | ✅ | 0'47.145 by BeatUnitix |
+| E-8                   | ✅ | ✅ | 0'33.350 by BeatUnitix |
+| E-9                   | ✅ | ✅ | 0'26.523 by BeatUnitix |
+| E-10                  | ✅ | ✅ | 1'27.290 by BeatUnitix |
+| S-1                   | ✅ | ✅ | 1'01.404 by BeatUnitix |
+| S-2                   | ✅ | ✅ | 1'53.796 by BeatUnitix |
+| S-3                   | ✅ | ✅ | 2'05.346 by BeatUnitix |
+| S-4                   | ✅ | ✅ | 1'33.527 by BeatUnitix |
+| S-5                   | ✅ | ✅ | 1'41.853 by BeatUnitix |
+| S-6                   | ✅ | ✅ | 1'14.902 by BeatUnitix |
+| S-7                   | ✅ | ✅ | 1'35.154 by BeatUnitix |
+| S-8                   | ✅ | ✅ | 1'30.919 by BeatUnitix |
+| S-9                   | ✅ | ✅ | 1'33.493 by BeatUnitix |
+| S-10                  | ✅ | ✅ | 2'08.595 by BeatUnitix |
 
 |   Japan SCPS-15105      | Playable | Demo Functional | Demo by:     |
 |-----------------------|-----------|-----------------|-------------|
